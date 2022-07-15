@@ -1,1 +1,13 @@
 ﻿
+
+.login-wrapper {
+    /*TODO この色はテスト*/
+    background: aqua;
+}
+
+@media only screen and (min-width: 740px) {
+    .login-body {
+        height: 400px;
+        display: block;
+    }
+}
